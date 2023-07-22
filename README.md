@@ -6,9 +6,9 @@ The result is gonna be Θ(k*n) and although the algorithm is not complete at sor
 #Examples<br>
 #Warning the results are all based on luck!<br>
 Output for n=100 k=10:<br>
-Result Array: [31, 61, 64, 90, 95, 96, 99]<br>Max Length: 7 <br>
+Result Array: [31, 61, 64, 90, 95, 96, 99]<br>Length: 7 <br>
 <br>
 Output for n=100 k=1 (just stalin sort):<br>
-Result Array: [91, 92, 97, 99]<br>Max Length: 4<br>
+Result Array: [91, 92, 97, 99]<br>Length: 4<br>
 
 
