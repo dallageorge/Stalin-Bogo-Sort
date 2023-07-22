@@ -4,7 +4,7 @@ This is a combination of Stalin sort and Bogo sort. <br>
 It shuffles the array randomly (bogo sort principle) k times and performs Stalin sort (remove the out of order) on each, keeping and finally printing the best result (that with the biggest length). <br>
 The result is gonna be Θ(k*n) and although the algorithm is not complete at sorting it can give a small sorted subset.<br>
 #Examples<br>
-#Warning the results are all based on luck!<br>
+#Warning, the results are all based on luck!<br>
 Output for n=100 k=10:<br>
 Result Array: [31, 61, 64, 90, 95, 96, 99]<br>Length: 7 <br>
 <br>
